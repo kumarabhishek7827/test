@@ -1,5 +1,5 @@
 # 📊 Power BI Dashboard: Customer Transaction Analytics
-### Dashboard Link :C:\Users\abhis\OneDrive\Documents\BANK INSIGHT.pbix
+
 
 
 ## 🧭 Purpose
